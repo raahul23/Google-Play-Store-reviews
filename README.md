@@ -1,7 +1,5 @@
 # 📊 Google Play Store Review Trend Analysis (Agentic AI)
 
-![Agentic AI Pipeline](https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png)
-
 ---
 
 ## 🔍 Problem Statement
@@ -191,3 +189,4 @@ Daily batch processing ✔
 👤 Author
 Raahul U
 Pulsegen – Agentic AI Assignment
+
